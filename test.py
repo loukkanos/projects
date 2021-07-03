@@ -1,2 +1,2 @@
 print ("hello world")
-ola = input(float("insira um numero"))
+ola = float(input("insira um numero"))
